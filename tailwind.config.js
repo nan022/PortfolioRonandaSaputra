@@ -8,9 +8,12 @@ module.exports = {
     },
     extend: {
       colors: {
-        primary: '#06b6d4',
+        primary: '#34495e',
         secondary: '#64748b',
         dark: '#0f172a',
+      },
+      fontFamily:{
+        poppins: ['Poppins', 'sans-serif'],
       },
       screens: {
         'xl': '1200px',
